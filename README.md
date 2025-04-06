@@ -1,4 +1,4 @@
-<h1 align="center">🎮 DayZ Spoofer</h1>
+<h1 align="center">DayZ Spoofer: Get around bans in minutes🎮</h1>
 <p align="center">Helping you survive Chernarus again — fast, safe, and undetected.</p>
 
 <p align="center">
